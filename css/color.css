@@ -1,0 +1,34 @@
+.coral-flat { background-color: #FE7A6D }
+.coral-flat .secondary-bg { background-color: #FF4C68 }
+.coral-flat .accent-bg { background-color: #391718 }
+.coral-flat .primary-color { color: #FFFFFF }
+.coral-flat .secondary-color { color: #FFEAE7 }
+.coral-flat .svg-fill { fill: #FFFFFF }
+
+.coral-gradient { background: linear-gradient(#FE985F, #FE7A6D) }
+.coral-gradient .secondary-bg { background-color: #FF4C68 }
+.coral-gradient .accent-bg { background-color: #391718 }
+.coral-gradient .primary-color { color: #FFFFFF }
+.coral-gradient .secondary-color { color: #FFEAE7 }
+.coral-gradient .svg-fill { fill: #FFFFFF }
+
+.coral-accent { background-color: #391718 }
+.coral-accent .secondary-bg { background-color: #FF4C68 }
+.coral-accent .accent-bg { background-color: #FE7A6D }
+.coral-accent .primary-color { color: #FFFFFF }
+.coral-accent .secondary-color { color: #EBE7E7 }
+.coral-accent .svg-fill { fill: #FFFFFF }
+
+.coral-black { background-color: #FF4C68 }
+.coral-black .secondary-bg { background-color: #FE7A6D }
+.coral-black .accent-bg { background-color: #391718 }
+.coral-black .primary-color { color: #FFFFFF }
+.coral-black .secondary-color { color: #FFE5E9 }
+.coral-black .svg-fill { fill: #FFFFFF }
+
+.coral-white { background-color: #FFFFFF }
+.coral-white .secondary-bg { background-color: #FFEAE7 }
+.coral-white .accent-bg { background-color: #391718 }
+.coral-white .primary-color { color: #000000 }
+.coral-white .secondary-color { color: #8F8F8F }
+.coral-white .svg-fill { fill: #FE7A6D }
